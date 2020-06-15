@@ -54,4 +54,4 @@ fix_libc /lib/x86_64-linux-gnu/libc-2.31.so 10fdeb77eea525914332769e9cd912ae amd
 fix_libc /lib32/libc-2.31.so                cbb114efa0fbd4f4a15124c06f5bdecd amd64-i386/libc.so 46fb40599c1006d476ce6ac2c5526b3c || true
 fix_libc /libx32/libc-2.31.so               51686bd9dc82f8be130040c87222a031 amd64-x32/libc.so  ed89e5f21f7b3b3d51786f717a49ca3e || true
 
-echo "[NOTE] If this shell frozen, close this session and start another one"
+echo "Complete! If this shell frozen, close this session and start another one"
